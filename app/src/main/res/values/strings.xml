@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Criminal_Intent_Sav_KompFour</string>
+    <string name="crime_title_label">Title</string>
+    <string name="crime_solved_label">Solved</string>
+</resources>
